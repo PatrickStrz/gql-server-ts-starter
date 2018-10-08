@@ -13,6 +13,7 @@
   "author": "Patrick Strzelec",
   "license": "ISC",
   "devDependencies": {
+    "@types/dotenv": "^4.0.3",
     "@types/graphql": "^0.13.3",
     "@types/node": "^10.5.2",
     "nodemon": "^1.18.4",
@@ -23,6 +24,7 @@
   },
   "dependencies": {
     "apollo-server": "^2.1.0",
+    "dotenv": "^6.0.0",
     "graphql": "^14.0.2"
   }
 }
