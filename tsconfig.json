@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "lib": ["es2017", "esnext.asynciterable"],
+    "noEmitOnError": true,
+    "sourceMap": true,
+    "outDir": "./dist ",
+    "rootDir": "src",
+    "noEmitHelpers": true,
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": false,
+    "esModuleInterop": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "pretty": true,
+    "allowJs": false,
+    "allowUnreachableCode": false,
+    "alwaysStrict": false
+  },
+  "exclude": ["node_modules", "__tests__"]
+}
