@@ -25,6 +25,7 @@
   "dependencies": {
     "apollo-datasource-rest": "^0.1.5",
     "apollo-server": "^2.3.1",
+    "apollo-server-testing": "^2.3.3",
     "dotenv": "^6.0.0",
     "graphql": "^14.0.2",
     "npm": "^6.4.1"
