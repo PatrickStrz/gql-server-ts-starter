@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`fetches single launch 1`] = `
+exports[`fetches a list of boards 1`] = `
 Object {
   "data": Object {
     "boards": Array [
